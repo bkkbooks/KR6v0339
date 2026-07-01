@@ -1,0 +1,197 @@
+canonical_identifier: bkk:krp/KR6v0339/v1
+canonical_location: https://kanripo.org/bkk/KR6v0339/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 集量論略解
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0040.xml
+    old_id: B09n0040
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0339_000.yaml, hash: 'sha256:6f42d65f3bba0fd1c4944df30d8e53a1bc8c2f2f3692459d0c4e1334a1a08911'}
+  - {seq: 1, filename: KR6v0339_001.yaml, hash: 'sha256:3a6238f8b70940703c8ee22b2f71c2ea429b781dc1a6bf93814a7ef95dc9632b'}
+  - {seq: 2, filename: KR6v0339_002.yaml, hash: 'sha256:d5940dd64f9e593d4fdfd8ea867b04284f9763b9d86f57a13b79d2e13966411d'}
+  - {seq: 3, filename: KR6v0339_003.yaml, hash: 'sha256:3097f21e862db1278fbb8972853808adbefeb80c37057fcca0a7faea05f5a152'}
+  - {seq: 4, filename: KR6v0339_004.yaml, hash: 'sha256:88ba6ce069d29d91609d9a017b9ac7c38a96559f83b94a975434d8929a6ac56f'}
+  - {seq: 5, filename: KR6v0339_005.yaml, hash: 'sha256:359e56e695271633ddce3606b6b819784e4e8e69485acc3665c06c0c62e04071'}
+  - {seq: 6, filename: KR6v0339_006.yaml, hash: 'sha256:bcc4cab7ae9557b213b1fa03dea073dbf8ac3ac8e85d43ead44d6a9c1cab230e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0339_000.markers.yaml, hash: 'sha256:6717b0941e60eedd9a85652e7cf889cfe7a181148ecb17a195d74802a610a08e'}
+  - {seq: 1, role: markers, filename: assets/KR6v0339_001.markers.yaml, hash: 'sha256:818e55e9e9344773d1d98f8aab25937ebd613e583fd277e77ecde9fe020ddaa6'}
+  - {seq: 2, role: markers, filename: assets/KR6v0339_002.markers.yaml, hash: 'sha256:b14fd41417acd41460e85078f9343765b637021f0378feb39a8b27aeb05cdefb'}
+  - {seq: 3, role: markers, filename: assets/KR6v0339_003.markers.yaml, hash: 'sha256:43e00483744d958573236f19a443691f5072989036c00e56c02a6e78f24531c3'}
+  - {seq: 4, role: markers, filename: assets/KR6v0339_004.markers.yaml, hash: 'sha256:4a15b6ceb56ea9d5a690944d84b513d666c2f70df72a4e8930662deec0d0501b'}
+  - {seq: 5, role: markers, filename: assets/KR6v0339_005.markers.yaml, hash: 'sha256:211f111a0baa7be6efb750283cd1f7268491e7193a8fd4700b67fed485d62f90'}
+  - {seq: 6, role: markers, filename: assets/KR6v0339_006.markers.yaml, hash: 'sha256:85d2e297e768eb58814dbc6bb086929205427242e65c208aeb84e4301832ab87'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0339_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 出版前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0339_B_000-mulu-2
+    span:
+    - front
+    - 2340
+    - 2340
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0339_B_000-mulu-3
+    span:
+    - front
+    - 4178
+    - 4178
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0339_B_000-mulu-4
+    span:
+    - front
+    - 4263
+    - 4263
+  label: 禮贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0339_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 10973
+  label: 卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0339_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 現量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0339_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 12074
+  label: 卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0339_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 自義比量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0339_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 14557
+  label: 卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0339_B_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 他義比量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0339_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 5493
+  label: 卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0339_B_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 觀喻似喻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0339_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 8150
+  label: 卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0339_B_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 觀遣他品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0339_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 5810
+  label: 卷六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0339_B_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 觀反斷品
+  type: mulu
+  level: 1
+hash: sha256:75c8c57f726b88cdb4a19cc9660bf27ec18b47ab8b7a5fa212b5e33058cd5fe0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: B
