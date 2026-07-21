@@ -13,7 +13,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0339_000.yaml, hash: 'sha256:5d4bab8cf9102670ff7c78d8995e8b906d76e2663188f19f8ce3e395bdeb47e6'}
+  - {seq: 0, filename: KR6v0339_000.yaml, hash: 'sha256:4e8234cf7742dbadd6a199f5a7fb4de377b67a07e76f3c932c7524afcd06540e'}
   - {seq: 1, filename: KR6v0339_001.yaml, hash: 'sha256:69d7c100cff8de08bdc02d86f395c8f462c6ecced5275e03076103b68db08abd'}
   - {seq: 2, filename: KR6v0339_002.yaml, hash: 'sha256:1cd29714d099c0bf7ed4f9a9d650a00bc0fa0f80121c330fd0682c53a19e3a76'}
   - {seq: 3, filename: KR6v0339_003.yaml, hash: 'sha256:c3b4b4805d78ed9fc09b29de163b3430d7de2592ba10a431890d63558734fb50'}
@@ -21,7 +21,7 @@ assets:
   - {seq: 5, filename: KR6v0339_005.yaml, hash: 'sha256:c6d1442cd2878c27c8961350e38b56dd76ea60f86dd2be42e17afbf7793cc49e'}
   - {seq: 6, filename: KR6v0339_006.yaml, hash: 'sha256:bc27bc632be96f6346fcd068f3eed3fa7890c8cf771cb01962bd421503d22672'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0339_000.markers.yaml, hash: 'sha256:0ed93e5467be031fe957525db77e498365ad0ae99d7025e8eed4da098c992767'}
+  - {seq: 0, role: markers, filename: assets/KR6v0339_000.markers.yaml, hash: 'sha256:ca9bd56838e8961268e2ff83ba657b2d7e5f742d4db45cf4eb8d43a3266633a4'}
   - {seq: 1, role: markers, filename: assets/KR6v0339_001.markers.yaml, hash: 'sha256:ffcd4dd727125d6c7d4059a15ce28928caf9bbdf486a60ecb97e8e4080bad3d3'}
   - {seq: 2, role: markers, filename: assets/KR6v0339_002.markers.yaml, hash: 'sha256:afacd2805be1d07f339536c5348ad399dd606af1f764f4e995e3c3081b6cd818'}
   - {seq: 3, role: markers, filename: assets/KR6v0339_003.markers.yaml, hash: 'sha256:373f05aae40b9f70c7f22061edfdb75c8500fe53423d583c7af799d010b3e04f'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 出版前言
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-2
     span:
-    - front
+    - body
     - 2340
     - 2340
   label: 序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-3
     span:
-    - front
+    - body
     - 4178
     - 4178
   label: 前言
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-4
     span:
-    - front
+    - body
     - 4263
     - 4263
   label: 禮贊
@@ -189,7 +189,7 @@ table_of_contents:
   label: 觀反斷品
   type: mulu
   level: 1
-hash: sha256:1290857c48b66230300c3da43b15590248d5be42f81e1b37c65b607a1e1024ae
+hash: sha256:6e1dfd7ccdfc5bcffa99c7b145baa3d4ff48a7fdcbe2c9bb7498d7f6ff7b2805
 editions:
 - short: B
 mappings:

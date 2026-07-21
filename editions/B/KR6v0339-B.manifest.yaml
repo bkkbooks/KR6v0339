@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0339_000-B.yaml, hash: 'sha256:e916c21c5e9977df6af5793eb45608607e1e95f43449d0a2455a275e394ca050'}
+  - {seq: 0, filename: KR6v0339_000-B.yaml, hash: 'sha256:5c28ffb3f6b9ea0b7acd02874a8a2332521ebd1dc9901aa461bcf5675b07c07e'}
   - {seq: 1, filename: KR6v0339_001-B.yaml, hash: 'sha256:1a04949e7ead093bdbf5da0ec9a45d36fdfe1dffc8a019ff73b99f882366cd86'}
   - {seq: 2, filename: KR6v0339_002-B.yaml, hash: 'sha256:2a3f099963fd8d172f7c57550346212c16c28db97c2e726c914066a169152546'}
   - {seq: 3, filename: KR6v0339_003-B.yaml, hash: 'sha256:0fa4d167496a9b673c1398e98b84c74261806fb9adc82d51fc08c53952a6168b'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6v0339_005-B.yaml, hash: 'sha256:650404af650191357d0830d8ee90a3070f45f86fade6f5aefef84c4bd2f2e8dc'}
   - {seq: 6, filename: KR6v0339_006-B.yaml, hash: 'sha256:7b5f201d7471d95486d2552474b28ac3a56a71cf6002beca9fecf6f13bc0c3eb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0339_000-B.markers.yaml, hash: 'sha256:4397ebe5723cf062b476855ce6e1d1ea44fa450448626bd133a060d0a253a1af'}
+  - {seq: 0, role: markers, filename: assets/KR6v0339_000-B.markers.yaml, hash: 'sha256:16c6d7befd31e3db1a90a705ea7a3953bd7384f02910493e98e0b18ed465a1d5'}
   - {seq: 1, role: markers, filename: assets/KR6v0339_001-B.markers.yaml, hash: 'sha256:33fb11d8fe8342690eaa745b60b3af94b408259a92a4d26ec6ad4f03fc48122b'}
   - {seq: 2, role: markers, filename: assets/KR6v0339_002-B.markers.yaml, hash: 'sha256:a39e9795fa0656c0b54360a48cf041b933fd4ca0e16a83b333344d8d119a34b3'}
   - {seq: 3, role: markers, filename: assets/KR6v0339_003-B.markers.yaml, hash: 'sha256:db85503808e1f0cbe106f2aa2901f24ec5a98ce456e5b0da58f3af53ed16e211'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 出版前言
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-2
     span:
-    - front
+    - body
     - 2340
     - 2340
   label: 序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-3
     span:
-    - front
+    - body
     - 4178
     - 4178
   label: 前言
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0339_B_000-mulu-4
     span:
-    - front
+    - body
     - 4263
     - 4263
   label: 禮贊
@@ -195,4 +195,4 @@ table_of_contents:
   label: 觀反斷品
   type: mulu
   level: 1
-hash: sha256:d63cd96e65766afe09a5bcfc838fe6fd86be382d9aa2ce691a8fccbe6aa992b7
+hash: sha256:4e01b2dcfe9beba4fd94fe9a2e1f8279e66651a706b87124759cbffd4701e268
